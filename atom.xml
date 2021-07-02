@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xgamelabo.github.io</id>
     <title>X&apos;s Game Design Laboratory</title>
-    <updated>2021-07-02T16:17:05.043Z</updated>
+    <updated>2021-07-02T16:53:02.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xgamelabo.github.io"/>
     <link rel="self" href="https://xgamelabo.github.io/atom.xml"/>
     <logo>https://xgamelabo.github.io/images/avatar.png</logo>
     <icon>https://xgamelabo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, X&apos;s Game Design Laboratory</rights>
+    <entry>
+        <title type="html"><![CDATA[hello world!]]></title>
+        <id>https://xgamelabo.github.io/post/hello-world/</id>
+        <link href="https://xgamelabo.github.io/post/hello-world/">
+        </link>
+        <updated>2021-07-02T17:18:22.000Z</updated>
+        <content type="html"><![CDATA[<p>let's have <strong>fun</strong> 😃</p>
+]]></content>
+    </entry>
 </feed>
